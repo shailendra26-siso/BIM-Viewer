@@ -1,0 +1,20 @@
+.front-menu {
+  position: absolute;
+  height: 80vh;
+  overflow-y: auto !important;
+  min-width: 30rem;
+  bottom: 10px;
+  left: 80px;
+}
+
+.front-menu-content {
+  margin: 1rem;
+}
+
+.front-menu-header {
+  display: flex;
+}
+
+.front-menu-header > Button {
+  margin-left: auto;
+}
